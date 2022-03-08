@@ -7,9 +7,18 @@ public class Demo extends RuntimeException {
 	{
 		//development got completed.
 		}
+
+
+	public void ram()
+
+	{
+		//ram work got completed.
+		}
+	
 	public void shyam()
 
 	{
 		//shyam work got completed.
 		}
+
 }
