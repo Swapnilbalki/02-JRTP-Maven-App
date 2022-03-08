@@ -7,5 +7,10 @@ public class Demo extends RuntimeException {
 	{
 		//development got completed.
 		}
+	public void ram()
+
+	{
+		//ram work got completed.
+		}
 	
 }
