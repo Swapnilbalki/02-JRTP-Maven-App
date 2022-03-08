@@ -7,5 +7,9 @@ public class Demo extends RuntimeException {
 	{
 		//development got completed.
 		}
-	
+	public void shyam()
+
+	{
+		//shyam work got completed.
+		}
 }
